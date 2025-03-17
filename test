@@ -1,8 +1,0 @@
-# My Code Snippet
-
-Here is a sample code snippet in JavaScript:
-
-```javascript
-function greet() {
-    console.log("Hello, world!");
-}
